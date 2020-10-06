@@ -1,2 +1,2 @@
 # Python-Advanced
-In this repository i am going to upload Python-Advanced exercises.
+In this repository I am going to upload Python-Advanced exercises.
